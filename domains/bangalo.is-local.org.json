@@ -1,0 +1,18 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-local.org",
+    "subdomain": "bangalo",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "alexgavi241@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "TXT": ["v=spf1 a:msn325.hahaletdoit.uk.eu.org -all"]
+    },
+
+    "proxied": false
+}
